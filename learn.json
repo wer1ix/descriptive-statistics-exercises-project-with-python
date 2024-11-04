@@ -1,6 +1,9 @@
 {
 	"slug": "descriptive-statistics-exercises-project-with-python",
-	"title": "Descriptive Statistics Exercises Project with Python",
+	"title": {
+		"us": "Descriptive Statistics Exercises Project with Python",
+		"es": "Proyecto de Stadistica descriptiva con Python"
+	},
 	"preview": "https://github.com/4GeeksAcademy/descriptive-statistics-exercises-project-with-python/blob/main/preview.jpeg?raw=true",
 	"solution": "https://github.com/4GeeksAcademy/descriptive-statistics-exercises-project-with-python/blob/main/notebook/solutions.ipynb",
 	"status": "published",
