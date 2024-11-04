@@ -1,8 +1,8 @@
 
    
 {
-	"title" : "descriptive-statistics-exercises-project-with-python",
-	"slug" : "Descriptive Statistics Exercises Project with Python",
+	"title": "descriptive-statistics-exercises-project-with-python",
+	"slug": "Descriptive Statistics Exercises Project with Python",
 	"preview": "https://github.com/4GeeksAcademy/descriptive-statistics-exercises-project-with-python/blob/main/preview.jpeg?raw=true",
 	"solution": "https://github.com/4GeeksAcademy/descriptive-statistics-exercises-project-with-python/blob/main/notebook/solutions.ipynb",
 	"status": "published",
@@ -10,8 +10,11 @@
 	"technologies": ["matplotlib", "numpy", "pandas", "python", "machine learning", "data science"],
 	"difficulty": "beginner",
 	"syntax": "python",
-	"duration" : 2,
-    "autoPlay": false,
-    "projectType": "project",
-	"description" : "Use your NumPy, Pandas and Matplotlib skills to practice a little about descriptive statistics"
+	"duration": 2,
+	"autoPlay": false,
+	"projectType": "project",
+	"description": {
+		"us": "Use your NumPy, Pandas, and Matplotlib skills to practice a little about descriptive statistics",
+		"es": "Usa tus habilidades con numpy, pandas y matplotlib para practicar un poco sobre estadística descriptiva."
+	}
 }
