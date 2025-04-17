@@ -37,3 +37,22 @@ Follow the instructions below:
 
 Once you have finished solving the exercises, be sure to commit your changes, `push` to your repository and go to 4Geeks.com to upload the repository link.
 
+
+## 🚀 Make Your Work Visible
+
+You worked with a real dataset from the IMDb portal and applied descriptive statistics to analyze something uncommon: **the length of movie titles**. Through measures of central tendency, dispersion, and distribution shape, you discovered how cinema communicates even through its names.
+
+### What to Share?
+
+Post an interesting insight from your results, such as how long the most common titles are, how dispersed they are, or which title is the longest. Accompany it with a chart.
+
+### ✨ Postable Example
+
+> "**What can statistics tell us about movie titles?**  
+> I analyzed 1,000 real titles from the IMDb dataset and discovered this with Python:   
+> • Average length: 23 characters  
+> • Mode: 15 characters  
+> • The longest title exceeds 60 characters  
+>  
+> Most titles are short, but some extremely long ones create a clear positive skew. Cinema can also be analyzed with data! **#DataScience #Python #Statistics #IMDb #Visualization #Storytelling**"
+
