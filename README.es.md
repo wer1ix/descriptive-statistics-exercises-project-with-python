@@ -40,3 +40,25 @@ Sigue las siguientes instrucciones:
 
 Una vez que hayas terminado de resolver los ejercicios, asegúrate de confirmar tus cambios, haz `push` a tu repositorio y ve a 4Geeks.com para subir el enlace del repositorio.
 
+
+## 🚀 Haz visible tu trabajo
+
+Trabajaste con un conjunto de datos real del portal IMDb y aplicaste estadística descriptiva para analizar algo poco común: **la longitud de los títulos de películas**. A través de medidas de tendencia central, dispersión y forma de la distribución, descubriste cómo el cine también comunica desde sus nombres.
+
+
+### ¿Qué compartir?
+
+Publicá un insight curioso de tus resultados, como qué tan largos son los títulos más comunes, cuán dispersos están, o qué título es el más largo. Acompañalo con un grafico.
+
+
+### ✨ Ejemplo posteable
+
+> "**¿Qué nos puede decir la estadística sobre los títulos de películas?**  
+> Analicé 1.000 títulos reales del dataset de IMDb y esto descubrí con Python:   
+> • Longitud media: 23 caracteres  
+> • Moda: 15 caracteres  
+> • El título más largo supera los 60 
+>  
+> La mayoría de los títulos son cortos, pero algunos larguísimos generan una asimetría positiva clara. ¡El cine también se analiza con datos! **#DataScience #Python #Estadística #IMDb #Visualización #Storytelling**"
+
+
